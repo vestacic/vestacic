@@ -1,7 +1,7 @@
 # Hi, I'm Vesta 👋
 
 ### 🐍 Python Software Engineer
-I am a **Systems-focused Python Engineer** with a background in building scalable infrastructure for computational workloads. I focus on **ModelOps**—bridging the gap between data science and production-grade software engineering. Academically, I currently explore **Continual Learning** and **Malware Detection**.
+I am a **Systems-focused Python Engineer** with a background in building scalable infrastructure for computational workloads. I focus on **ModelOps**, seeking to bridge the gap between data science and production-grade software engineering. Academically, I currently explore **Continual Learning** and **Malware Detection**.
 
 ---
 
@@ -33,11 +33,5 @@ I treat models as **payloads** and focus on building the **rocket** that carries
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vestacic&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vestacic&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
-* **LinkedIn:** [https://www.linkedin.com/in/vesta-cic%C4%97nait%C4%97/]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesta-cic%C4%97nait%C4%97/)
